@@ -195,13 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-@keyframes test {
-  0% { background-color: darkblue;}
-  25% { background-color: darkcyan;}
-  50% { background-color: darkslategray;}
-  70% { background-color: darkolivegreen;}
-  100% { background-color: darkseagreen;}
-}
+
 
 #hero {
   width: 100%;
